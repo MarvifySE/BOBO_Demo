@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/6057_0002.webp" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="#FFFFFF" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#ffffff" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots />
+  <images rows="3" highresWidth="826" highresHeight="551">
+    <image src="images/6057_0002.webp">
+      <highres src="images/highres/6057_0002.webp" />
+    </image>
+    <image src="images/6057_0003.webp">
+      <highres src="images/highres/6057_0003.webp" />
+    </image>
+    <image src="images/6057_0004.webp">
+      <highres src="images/highres/6057_0004.webp" />
+    </image>
+    <image src="images/6057_0005.webp">
+      <highres src="images/highres/6057_0005.webp" />
+    </image>
+    <image src="images/6057_0006.webp">
+      <highres src="images/highres/6057_0006.webp" />
+    </image>
+    <image src="images/6057_0007.webp">
+      <highres src="images/highres/6057_0007.webp" />
+    </image>
+    <image src="images/6057_0008.webp">
+      <highres src="images/highres/6057_0008.webp" />
+    </image>
+    <image src="images/6057_0009.webp">
+      <highres src="images/highres/6057_0009.webp" />
+    </image>
+    <image src="images/6057_0010.webp">
+      <highres src="images/highres/6057_0010.webp" />
+    </image>
+    <image src="images/6057_0011.webp">
+      <highres src="images/highres/6057_0011.webp" />
+    </image>
+    <image src="images/6057_0012.webp">
+      <highres src="images/highres/6057_0012.webp" />
+    </image>
+    <image src="images/6057_0013.webp">
+      <highres src="images/highres/6057_0013.webp" />
+    </image>
+    <image src="images/6057_0014.webp">
+      <highres src="images/highres/6057_0014.webp" />
+    </image>
+    <image src="images/6057_0015.webp">
+      <highres src="images/highres/6057_0015.webp" />
+    </image>
+    <image src="images/6057_0016.webp">
+      <highres src="images/highres/6057_0016.webp" />
+    </image>
+    <image src="images/6057_0017.webp">
+      <highres src="images/highres/6057_0017.webp" />
+    </image>
+    <image src="images/6057_0018.webp">
+      <highres src="images/highres/6057_0018.webp" />
+    </image>
+    <image src="images/6057_0019.webp">
+      <highres src="images/highres/6057_0019.webp" />
+    </image>
+    <image src="images/6057_0020.webp">
+      <highres src="images/highres/6057_0020.webp" />
+    </image>
+    <image src="images/6057_0021.webp">
+      <highres src="images/highres/6057_0021.webp" />
+    </image>
+    <image src="images/6057_0022.webp">
+      <highres src="images/highres/6057_0022.webp" />
+    </image>
+    <image src="images/6057_0023.webp">
+      <highres src="images/highres/6057_0023.webp" />
+    </image>
+    <image src="images/6057_0024.webp">
+      <highres src="images/highres/6057_0024.webp" />
+    </image>
+    <image src="images/6057_0025.webp">
+      <highres src="images/highres/6057_0025.webp" />
+    </image>
+    <image src="images/6057_0026.webp">
+      <highres src="images/highres/6057_0026.webp" />
+    </image>
+    <image src="images/6057_0027.webp">
+      <highres src="images/highres/6057_0027.webp" />
+    </image>
+    <image src="images/6057_0028.webp">
+      <highres src="images/highres/6057_0028.webp" />
+    </image>
+    <image src="images/6057_0029.webp">
+      <highres src="images/highres/6057_0029.webp" />
+    </image>
+    <image src="images/6057_0030.webp">
+      <highres src="images/highres/6057_0030.webp" />
+    </image>
+    <image src="images/6057_0031.webp">
+      <highres src="images/highres/6057_0031.webp" />
+    </image>
+    <image src="images/6057_0032.webp">
+      <highres src="images/highres/6057_0032.webp" />
+    </image>
+    <image src="images/6057_0033.webp">
+      <highres src="images/highres/6057_0033.webp" />
+    </image>
+    <image src="images/6057_0034.webp">
+      <highres src="images/highres/6057_0034.webp" />
+    </image>
+    <image src="images/6057_0035.webp">
+      <highres src="images/highres/6057_0035.webp" />
+    </image>
+    <image src="images/6057_0036.webp">
+      <highres src="images/highres/6057_0036.webp" />
+    </image>
+    <image src="images/6057_0037.webp">
+      <highres src="images/highres/6057_0037.webp" />
+    </image>
+    <image src="images/6057_0038.webp">
+      <highres src="images/highres/6057_0038.webp" />
+    </image>
+    <image src="images/6057_0039.webp">
+      <highres src="images/highres/6057_0039.webp" />
+    </image>
+    <image src="images/6057_0040.webp">
+      <highres src="images/highres/6057_0040.webp" />
+    </image>
+    <image src="images/6057_0041.webp">
+      <highres src="images/highres/6057_0041.webp" />
+    </image>
+    <image src="images/6057_0042.webp">
+      <highres src="images/highres/6057_0042.webp" />
+    </image>
+    <image src="images/6057_0043.webp">
+      <highres src="images/highres/6057_0043.webp" />
+    </image>
+    <image src="images/6057_0044.webp">
+      <highres src="images/highres/6057_0044.webp" />
+    </image>
+    <image src="images/6057_0045.webp">
+      <highres src="images/highres/6057_0045.webp" />
+    </image>
+    <image src="images/6057_0046.webp">
+      <highres src="images/highres/6057_0046.webp" />
+    </image>
+    <image src="images/6057_0047.webp">
+      <highres src="images/highres/6057_0047.webp" />
+    </image>
+    <image src="images/6057_0048.webp">
+      <highres src="images/highres/6057_0048.webp" />
+    </image>
+    <image src="images/6057_0049.webp">
+      <highres src="images/highres/6057_0049.webp" />
+    </image>
+    <image src="images/6057_0050.webp">
+      <highres src="images/highres/6057_0050.webp" />
+    </image>
+    <image src="images/6057_0051.webp">
+      <highres src="images/highres/6057_0051.webp" />
+    </image>
+    <image src="images/6057_0052.webp">
+      <highres src="images/highres/6057_0052.webp" />
+    </image>
+    <image src="images/6057_0053.webp">
+      <highres src="images/highres/6057_0053.webp" />
+    </image>
+    <image src="images/6057_0054.webp">
+      <highres src="images/highres/6057_0054.webp" />
+    </image>
+    <image src="images/6057_0055.webp">
+      <highres src="images/highres/6057_0055.webp" />
+    </image>
+    <image src="images/6057_0056.webp">
+      <highres src="images/highres/6057_0056.webp" />
+    </image>
+    <image src="images/6057_0057.webp">
+      <highres src="images/highres/6057_0057.webp" />
+    </image>
+    <image src="images/6057_0058.webp">
+      <highres src="images/highres/6057_0058.webp" />
+    </image>
+    <image src="images/6057_0059.webp">
+      <highres src="images/highres/6057_0059.webp" />
+    </image>
+    <image src="images/6057_0060.webp">
+      <highres src="images/highres/6057_0060.webp" />
+    </image>
+    <image src="images/6057_0061.webp">
+      <highres src="images/highres/6057_0061.webp" />
+    </image>
+    <image src="images/6057_0062.webp">
+      <highres src="images/highres/6057_0062.webp" />
+    </image>
+    <image src="images/6057_0063.webp">
+      <highres src="images/highres/6057_0063.webp" />
+    </image>
+    <image src="images/6057_0064.webp">
+      <highres src="images/highres/6057_0064.webp" />
+    </image>
+    <image src="images/6057_0065.webp">
+      <highres src="images/highres/6057_0065.webp" />
+    </image>
+    <image src="images/6057_0066.webp">
+      <highres src="images/highres/6057_0066.webp" />
+    </image>
+    <image src="images/3951_0001.webp">
+      <highres src="images/highres/3951_0001.webp" />
+    </image>
+    <image src="images/3951_0002.webp">
+      <highres src="images/highres/3951_0002.webp" />
+    </image>
+    <image src="images/3951_0003.webp">
+      <highres src="images/highres/3951_0003.webp" />
+    </image>
+    <image src="images/3951_0004.webp">
+      <highres src="images/highres/3951_0004.webp" />
+    </image>
+    <image src="images/3951_0005.webp">
+      <highres src="images/highres/3951_0005.webp" />
+    </image>
+    <image src="images/3951_0006.webp">
+      <highres src="images/highres/3951_0006.webp" />
+    </image>
+    <image src="images/3951_0007.webp">
+      <highres src="images/highres/3951_0007.webp" />
+    </image>
+    <image src="images/3951_0008.webp">
+      <highres src="images/highres/3951_0008.webp" />
+    </image>
+    <image src="images/3951_0009.webp">
+      <highres src="images/highres/3951_0009.webp" />
+    </image>
+    <image src="images/3951_0010.webp">
+      <highres src="images/highres/3951_0010.webp" />
+    </image>
+    <image src="images/3951_0011.webp">
+      <highres src="images/highres/3951_0011.webp" />
+    </image>
+    <image src="images/3951_0012.webp">
+      <highres src="images/highres/3951_0012.webp" />
+    </image>
+    <image src="images/3951_0013.webp">
+      <highres src="images/highres/3951_0013.webp" />
+    </image>
+    <image src="images/3951_0014.webp">
+      <highres src="images/highres/3951_0014.webp" />
+    </image>
+    <image src="images/3951_0015.webp">
+      <highres src="images/highres/3951_0015.webp" />
+    </image>
+    <image src="images/3951_0016.webp">
+      <highres src="images/highres/3951_0016.webp" />
+    </image>
+    <image src="images/3951_0017.webp">
+      <highres src="images/highres/3951_0017.webp" />
+    </image>
+    <image src="images/3951_0018.webp">
+      <highres src="images/highres/3951_0018.webp" />
+    </image>
+    <image src="images/3951_0019.webp">
+      <highres src="images/highres/3951_0019.webp" />
+    </image>
+    <image src="images/3951_0020.webp">
+      <highres src="images/highres/3951_0020.webp" />
+    </image>
+    <image src="images/3951_0021.webp">
+      <highres src="images/highres/3951_0021.webp" />
+    </image>
+    <image src="images/3951_0022.webp">
+      <highres src="images/highres/3951_0022.webp" />
+    </image>
+    <image src="images/3951_0023.webp">
+      <highres src="images/highres/3951_0023.webp" />
+    </image>
+    <image src="images/3951_0024.webp">
+      <highres src="images/highres/3951_0024.webp" />
+    </image>
+    <image src="images/3951_0025.webp">
+      <highres src="images/highres/3951_0025.webp" />
+    </image>
+    <image src="images/3951_0026.webp">
+      <highres src="images/highres/3951_0026.webp" />
+    </image>
+    <image src="images/3951_0027.webp">
+      <highres src="images/highres/3951_0027.webp" />
+    </image>
+    <image src="images/3951_0028.webp">
+      <highres src="images/highres/3951_0028.webp" />
+    </image>
+    <image src="images/3951_0029.webp">
+      <highres src="images/highres/3951_0029.webp" />
+    </image>
+    <image src="images/3951_0030.webp">
+      <highres src="images/highres/3951_0030.webp" />
+    </image>
+    <image src="images/3951_0031.webp">
+      <highres src="images/highres/3951_0031.webp" />
+    </image>
+    <image src="images/3951_0032.webp">
+      <highres src="images/highres/3951_0032.webp" />
+    </image>
+    <image src="images/3951_0033.webp">
+      <highres src="images/highres/3951_0033.webp" />
+    </image>
+    <image src="images/3951_0034.webp">
+      <highres src="images/highres/3951_0034.webp" />
+    </image>
+    <image src="images/3951_0035.webp">
+      <highres src="images/highres/3951_0035.webp" />
+    </image>
+    <image src="images/3951_0036.webp">
+      <highres src="images/highres/3951_0036.webp" />
+    </image>
+    <image src="images/3951_0037.webp">
+      <highres src="images/highres/3951_0037.webp" />
+    </image>
+    <image src="images/3951_0038.webp">
+      <highres src="images/highres/3951_0038.webp" />
+    </image>
+    <image src="images/3951_0039.webp">
+      <highres src="images/highres/3951_0039.webp" />
+    </image>
+    <image src="images/3951_0040.webp">
+      <highres src="images/highres/3951_0040.webp" />
+    </image>
+    <image src="images/3951_0041.webp">
+      <highres src="images/highres/3951_0041.webp" />
+    </image>
+    <image src="images/3951_0042.webp">
+      <highres src="images/highres/3951_0042.webp" />
+    </image>
+    <image src="images/3951_0043.webp">
+      <highres src="images/highres/3951_0043.webp" />
+    </image>
+    <image src="images/3951_0044.webp">
+      <highres src="images/highres/3951_0044.webp" />
+    </image>
+    <image src="images/3951_0045.webp">
+      <highres src="images/highres/3951_0045.webp" />
+    </image>
+    <image src="images/3951_0046.webp">
+      <highres src="images/highres/3951_0046.webp" />
+    </image>
+    <image src="images/3951_0047.webp">
+      <highres src="images/highres/3951_0047.webp" />
+    </image>
+    <image src="images/3951_0048.webp">
+      <highres src="images/highres/3951_0048.webp" />
+    </image>
+    <image src="images/3951_0049.webp">
+      <highres src="images/highres/3951_0049.webp" />
+    </image>
+    <image src="images/3951_0050.webp">
+      <highres src="images/highres/3951_0050.webp" />
+    </image>
+    <image src="images/3951_0051.webp">
+      <highres src="images/highres/3951_0051.webp" />
+    </image>
+    <image src="images/3951_0052.webp">
+      <highres src="images/highres/3951_0052.webp" />
+    </image>
+    <image src="images/3951_0053.webp">
+      <highres src="images/highres/3951_0053.webp" />
+    </image>
+    <image src="images/3951_0054.webp">
+      <highres src="images/highres/3951_0054.webp" />
+    </image>
+    <image src="images/3951_0055.webp">
+      <highres src="images/highres/3951_0055.webp" />
+    </image>
+    <image src="images/3951_0056.webp">
+      <highres src="images/highres/3951_0056.webp" />
+    </image>
+    <image src="images/3951_0057.webp">
+      <highres src="images/highres/3951_0057.webp" />
+    </image>
+    <image src="images/3951_0058.webp">
+      <highres src="images/highres/3951_0058.webp" />
+    </image>
+    <image src="images/3951_0059.webp">
+      <highres src="images/highres/3951_0059.webp" />
+    </image>
+    <image src="images/3951_0060.webp">
+      <highres src="images/highres/3951_0060.webp" />
+    </image>
+    <image src="images/3951_0061.webp">
+      <highres src="images/highres/3951_0061.webp" />
+    </image>
+    <image src="images/3951_0062.webp">
+      <highres src="images/highres/3951_0062.webp" />
+    </image>
+    <image src="images/3951_0063.webp">
+      <highres src="images/highres/3951_0063.webp" />
+    </image>
+    <image src="images/3951_0064.webp">
+      <highres src="images/highres/3951_0064.webp" />
+    </image>
+    <image src="images/3951_0065.webp">
+      <highres src="images/highres/3951_0065.webp" />
+    </image>
+    <image src="images/7693_0001.webp">
+      <highres src="images/highres/7693_0001.webp" />
+    </image>
+    <image src="images/7693_0002.webp">
+      <highres src="images/highres/7693_0002.webp" />
+    </image>
+    <image src="images/7693_0003.webp">
+      <highres src="images/highres/7693_0003.webp" />
+    </image>
+    <image src="images/7693_0004.webp">
+      <highres src="images/highres/7693_0004.webp" />
+    </image>
+    <image src="images/7693_0005.webp">
+      <highres src="images/highres/7693_0005.webp" />
+    </image>
+    <image src="images/7693_0006.webp">
+      <highres src="images/highres/7693_0006.webp" />
+    </image>
+    <image src="images/7693_0007.webp">
+      <highres src="images/highres/7693_0007.webp" />
+    </image>
+    <image src="images/7693_0008.webp">
+      <highres src="images/highres/7693_0008.webp" />
+    </image>
+    <image src="images/7693_0009.webp">
+      <highres src="images/highres/7693_0009.webp" />
+    </image>
+    <image src="images/7693_0010.webp">
+      <highres src="images/highres/7693_0010.webp" />
+    </image>
+    <image src="images/7693_0011.webp">
+      <highres src="images/highres/7693_0011.webp" />
+    </image>
+    <image src="images/7693_0012.webp">
+      <highres src="images/highres/7693_0012.webp" />
+    </image>
+    <image src="images/7693_0013.webp">
+      <highres src="images/highres/7693_0013.webp" />
+    </image>
+    <image src="images/7693_0014.webp">
+      <highres src="images/highres/7693_0014.webp" />
+    </image>
+    <image src="images/7693_0015.webp">
+      <highres src="images/highres/7693_0015.webp" />
+    </image>
+    <image src="images/7693_0016.webp">
+      <highres src="images/highres/7693_0016.webp" />
+    </image>
+    <image src="images/7693_0017.webp">
+      <highres src="images/highres/7693_0017.webp" />
+    </image>
+    <image src="images/7693_0018.webp">
+      <highres src="images/highres/7693_0018.webp" />
+    </image>
+    <image src="images/7693_0019.webp">
+      <highres src="images/highres/7693_0019.webp" />
+    </image>
+    <image src="images/7693_0020.webp">
+      <highres src="images/highres/7693_0020.webp" />
+    </image>
+    <image src="images/7693_0021.webp">
+      <highres src="images/highres/7693_0021.webp" />
+    </image>
+    <image src="images/7693_0022.webp">
+      <highres src="images/highres/7693_0022.webp" />
+    </image>
+    <image src="images/7693_0023.webp">
+      <highres src="images/highres/7693_0023.webp" />
+    </image>
+    <image src="images/7693_0024.webp">
+      <highres src="images/highres/7693_0024.webp" />
+    </image>
+    <image src="images/7693_0025.webp">
+      <highres src="images/highres/7693_0025.webp" />
+    </image>
+    <image src="images/7693_0026.webp">
+      <highres src="images/highres/7693_0026.webp" />
+    </image>
+    <image src="images/7693_0027.webp">
+      <highres src="images/highres/7693_0027.webp" />
+    </image>
+    <image src="images/7693_0028.webp">
+      <highres src="images/highres/7693_0028.webp" />
+    </image>
+    <image src="images/7693_0029.webp">
+      <highres src="images/highres/7693_0029.webp" />
+    </image>
+    <image src="images/7693_0030.webp">
+      <highres src="images/highres/7693_0030.webp" />
+    </image>
+    <image src="images/7693_0031.webp">
+      <highres src="images/highres/7693_0031.webp" />
+    </image>
+    <image src="images/7693_0032.webp">
+      <highres src="images/highres/7693_0032.webp" />
+    </image>
+    <image src="images/7693_0033.webp">
+      <highres src="images/highres/7693_0033.webp" />
+    </image>
+    <image src="images/7693_0034.webp">
+      <highres src="images/highres/7693_0034.webp" />
+    </image>
+    <image src="images/7693_0035.webp">
+      <highres src="images/highres/7693_0035.webp" />
+    </image>
+    <image src="images/7693_0036.webp">
+      <highres src="images/highres/7693_0036.webp" />
+    </image>
+    <image src="images/7693_0037.webp">
+      <highres src="images/highres/7693_0037.webp" />
+    </image>
+    <image src="images/7693_0038.webp">
+      <highres src="images/highres/7693_0038.webp" />
+    </image>
+    <image src="images/7693_0039.webp">
+      <highres src="images/highres/7693_0039.webp" />
+    </image>
+    <image src="images/7693_0040.webp">
+      <highres src="images/highres/7693_0040.webp" />
+    </image>
+    <image src="images/7693_0041.webp">
+      <highres src="images/highres/7693_0041.webp" />
+    </image>
+    <image src="images/7693_0042.webp">
+      <highres src="images/highres/7693_0042.webp" />
+    </image>
+    <image src="images/7693_0043.webp">
+      <highres src="images/highres/7693_0043.webp" />
+    </image>
+    <image src="images/7693_0044.webp">
+      <highres src="images/highres/7693_0044.webp" />
+    </image>
+    <image src="images/7693_0045.webp">
+      <highres src="images/highres/7693_0045.webp" />
+    </image>
+    <image src="images/7693_0046.webp">
+      <highres src="images/highres/7693_0046.webp" />
+    </image>
+    <image src="images/7693_0047.webp">
+      <highres src="images/highres/7693_0047.webp" />
+    </image>
+    <image src="images/7693_0048.webp">
+      <highres src="images/highres/7693_0048.webp" />
+    </image>
+    <image src="images/7693_0049.webp">
+      <highres src="images/highres/7693_0049.webp" />
+    </image>
+    <image src="images/7693_0050.webp">
+      <highres src="images/highres/7693_0050.webp" />
+    </image>
+    <image src="images/7693_0051.webp">
+      <highres src="images/highres/7693_0051.webp" />
+    </image>
+    <image src="images/7693_0052.webp">
+      <highres src="images/highres/7693_0052.webp" />
+    </image>
+    <image src="images/7693_0053.webp">
+      <highres src="images/highres/7693_0053.webp" />
+    </image>
+    <image src="images/7693_0054.webp">
+      <highres src="images/highres/7693_0054.webp" />
+    </image>
+    <image src="images/7693_0055.webp">
+      <highres src="images/highres/7693_0055.webp" />
+    </image>
+    <image src="images/7693_0056.webp">
+      <highres src="images/highres/7693_0056.webp" />
+    </image>
+    <image src="images/7693_0057.webp">
+      <highres src="images/highres/7693_0057.webp" />
+    </image>
+    <image src="images/7693_0058.webp">
+      <highres src="images/highres/7693_0058.webp" />
+    </image>
+    <image src="images/7693_0059.webp">
+      <highres src="images/highres/7693_0059.webp" />
+    </image>
+    <image src="images/7693_0060.webp">
+      <highres src="images/highres/7693_0060.webp" />
+    </image>
+    <image src="images/7693_0061.webp">
+      <highres src="images/highres/7693_0061.webp" />
+    </image>
+    <image src="images/7693_0062.webp">
+      <highres src="images/highres/7693_0062.webp" />
+    </image>
+    <image src="images/7693_0063.webp">
+      <highres src="images/highres/7693_0063.webp" />
+    </image>
+    <image src="images/7693_0064.webp">
+      <highres src="images/highres/7693_0064.webp" />
+    </image>
+    <image src="images/7693_0065.webp">
+      <highres src="images/highres/7693_0065.webp" />
+    </image>
+  </images>
+</config>
